@@ -1,0 +1,7 @@
+[22/06/22 05:34:22] [INFO] BeamMP Server v3.0.1
+[22/06/22 05:34:22] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[22/06/22 05:34:22] [INFO] Loaded 8 Mods
+[22/06/22 05:34:22] [ERROR] bind() failed: Address already in use
+[22/06/22 05:34:22] [ERROR] bind() failed: Address already in use
+[22/06/22 05:34:22] [INFO] PluginMonitor started
+[22/06/22 05:34:22] [INFO] Server up-to-date!

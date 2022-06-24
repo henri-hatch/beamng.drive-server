@@ -1,0 +1,39 @@
+[22/06/22 05:15:55] [INFO] BeamMP Server v3.0.1
+[22/06/22 05:15:55] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[22/06/22 05:15:55] [INFO] Loaded 8 Mods
+[22/06/22 05:15:55] [INFO] Vehicle event network online
+[22/06/22 05:15:55] [INFO] Vehicle data network online on port 30814 with a Max of 10 Clients
+[22/06/22 05:15:55] [INFO] PluginMonitor started
+[22/06/22 05:15:55] [INFO] Server up-to-date!
+[22/06/22 05:16:01] [INFO] Authenticated!
+[22/06/22 05:16:01] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
+[22/06/22 05:16:25] [INFO] Identifying new ClientConnection...
+[22/06/22 05:16:26] [INFO] Identification success
+[22/06/22 05:16:26] [INFO] Client connected
+[22/06/22 05:16:26] [INFO] Assigned ID 0 to guest4365976
+[22/06/22 05:16:27] [INFO] guest4365976 requesting : /lordkyvrss_cultist_mk2.zip
+[22/06/22 05:16:34] [INFO] guest4365976 requesting : /lordkyvrss_model_5_trim_3.zip
+[22/06/22 05:16:37] [INFO] guest4365976 requesting : /mm.zip
+[22/06/22 05:16:45] [INFO] guest4365976 requesting : /jj.zip
+[22/06/22 05:16:50] [INFO] guest4365976 requesting : /fnr_2001_.zip
+[22/06/22 05:17:17] [INFO] Identifying new ClientConnection...
+[22/06/22 05:17:18] [INFO] Identification success
+[22/06/22 05:17:18] [INFO] Client connected
+[22/06/22 05:17:18] [INFO] Assigned ID 1 to guest5058365
+[22/06/22 05:17:18] [INFO] guest5058365 requesting : /lordkyvrss_cultist_mk2.zip
+[22/06/22 05:17:25] [INFO] guest5058365 requesting : /lordkyvrss_model_5_trim_3.zip
+[22/06/22 05:17:29] [INFO] guest5058365 requesting : /mm.zip
+[22/06/22 05:17:35] [INFO] guest5058365 requesting : /jj.zip
+[22/06/22 05:17:41] [INFO] guest5058365 requesting : /fnr_2001_.zip
+[22/06/22 05:17:46] [INFO] guest5058365 requesting : /owl1.zip
+[22/06/22 05:17:52] [INFO] guest5058365 requesting : /sv1.zip
+[22/06/22 05:17:56] [INFO] guest5058365 requesting : /rb2.zip
+[22/06/22 05:18:04] [INFO] guest5058365 : Connected
+[22/06/22 05:18:11] [INFO] guest4365976 requesting : /owl1.zip
+[22/06/22 05:18:15] [INFO] guest5058365 is now synced!
+[22/06/22 05:18:20] [INFO] guest4365976 requesting : /sv1.zip
+[22/06/22 05:18:28] [INFO] guest4365976 requesting : /rb2.zip
+[22/06/22 05:18:39] [INFO] guest4365976 : Connected
+[22/06/22 05:18:53] [INFO] guest4365976 is now synced!
+> say Server SHUTDOWN in 30 Minutes
+[22/06/22 05:30:02] [CHAT] <Server> (to everyone) Server SHUTDOWN in 30 Minutes
